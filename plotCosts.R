@@ -1,5 +1,9 @@
 library(ggplot2)
 library(dplyr)
+library(ggvis)
+
+#*** need to get the zoo package and make into a time series; right now the TS is not in
+#    the correct order
 
 zz <- read.csv('data/Costs.csv')
 
@@ -16,6 +20,18 @@ g1 <- g1 + annotate('text', label = paste('Avg Daily Cost =',round(mean(dayTot$T
             x = mean(ggplot_build(g1)$panel$ranges[[1]]$x.range))
 
 g1
+g2 <- dayTot %>% mutate(Avg = mean(Tot)) %>%
+  ggvis(~Date, ~Tot) %>% layer_lines() %>%
+  layer_lines(y = ~Avg)
+
+# try interactive plot
+
+dayTot %>% ggvis(~Date, ~Tot) %>% layer_lines() %>%
+  add_tooltip(all_values,'hover')
+#%>% handle_hover(function(data,...) str(data))
+
+mtcars %>% ggvis(~mpg, ~wt) %>% layer_points() %>%
+  handle_hover(function(data, ...) str(data))
 
 # costs by category
 # make Breakfast, Lunch, Dinner, Snack all = Food
@@ -29,5 +45,4 @@ g2 <- ggplot(catCost, aes(x = Category, y = Tot, fill = Category)) + geom_bar(st
 g2
 
 # costs by category in ggvis
-library(ggvis)
 g3 <- catCost %>% ggvis(~Category, ~Tot, fill = ~Category) %>% layer_bars(stack = F)

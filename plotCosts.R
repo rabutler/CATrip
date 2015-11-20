@@ -1,7 +1,7 @@
 library(ggplot2)
 library(dplyr)
 
-zz <- read.csv('Costs.csv')
+zz <- read.csv('data/Costs.csv')
 
 # set any NA's to 0
 zz$Cost[is.na(zz$Cost)] <- 0
@@ -10,10 +10,10 @@ zz$Cost[is.na(zz$Cost)] <- 0
 dayTot <- zz %>% group_by(Date) %>% summarise(Tot = sum(Cost))
 
 g1 <- ggplot(dayTot, aes(Date, Tot,group = 'identity')) + geom_line() +
-  geom_hline(yintercept = mean(dayTot$Tot)) + 
-  annotate('text', label = paste('Avg Daily Cost =',round(mean(dayTot$Tot)),2), 
-           y = mean(dayTot$Tot) + diff(range(dayTot$Tot))*.05,
-           x = mean(ggplot_build(g1)$panel$ranges[[1]]$x.range))
+  geom_hline(yintercept = mean(dayTot$Tot)) 
+g1 <- g1 + annotate('text', label = paste('Avg Daily Cost =',round(mean(dayTot$Tot)),2), 
+            y = mean(dayTot$Tot) + diff(range(dayTot$Tot))*.05,
+            x = mean(ggplot_build(g1)$panel$ranges[[1]]$x.range))
 
 g1
 
@@ -27,3 +27,7 @@ zz$Category <- as.factor(zz$Category)
 
 g2 <- ggplot(catCost, aes(x = Category, y = Tot, fill = Category)) + geom_bar(stat = 'identity')
 g2
+
+# costs by category in ggvis
+library(ggvis)
+g3 <- catCost %>% ggvis(~Category, ~Tot, fill = ~Category) %>% layer_bars(stack = F)

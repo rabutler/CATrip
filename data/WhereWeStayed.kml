@@ -1,0 +1,554 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Where we stayed</name>
+		<Placemark>
+			<name>Pirate Cove Resort &amp; Marina</name>
+			<description><![CDATA[Arrived: July 25, 2015<br>Departed: July 26, 2015<br>Dog Friendly: Yes (campground)]]></description>
+			<styleUrl>#icon-1379</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-114.51060000000001,34.727208,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Robert's K 38 Surf Motel</name>
+			<description><![CDATA[Arrived: July 26, 2015<br>Departed: July 28, 2015<br>Dog friendly: Yes]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.99089400000003,32.261702,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Quatro Casas</name>
+			<description><![CDATA[Arrived: July 28, 2015<br>Departed: July 29, 2015<br>Dog Friendly: Yes, but dogs are not allowed in the hostel/rooms. ]]></description>
+			<styleUrl>#icon-1015</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.24231700000003,30.933814,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Mill Hotel</name>
+			<description><![CDATA[Arrived: July 29, 2015<br>Departed: July 30, 2015<br>Pet Friendly: Yes<br>Directions: About 1.5 miles south of the beginning of town, turn right (at signs for Old Mill and Edie's), then follow signs. Approximately 2 miles off the main road. ]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-115.97676100000001,30.484717,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hotel Princes</name>
+			<description><![CDATA[Arrived: July 30, 2015<br>Departed: July 31, 2015<br>Dog friendly: Yes]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-113.5618651,28.949893600000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hotel Serenidad</name>
+			<description><![CDATA[Arrived: July 31, 2015<br>Departed: August 1, 2015<br>Dog friendly: Yes]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-111.95900899999998,26.898037,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pescadero Surf Camp</name>
+			<description><![CDATA[Arrived: August 1, 2015<br>Departed: August 8, 2015<br>Dog friendly: Yes]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-110.16469000000001,23.355564,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabo Pulmo Beach Resort</name>
+			<description><![CDATA[Arrived: August 8, 2015<br>Departed: August 9, 2015<br>Dog friendly: Yes]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-109.42720500000001,23.436766000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hotel Yeneka</name>
+			<description><![CDATA[Arrived: August 9, 2015<br>Departed: August 11, 2015<br>Dog friendly: Yes]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-110.31464800000005,24.161061,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hotel Morales Inn</name>
+			<description><![CDATA[Arrived: August 12, 2015<br>Departed: August 13, 2015<br>Dog friendly: Yes]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-106.420438,23.205154,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oscar's Air BnB Room</name>
+			<description><![CDATA[Arrived: August 13, 2015<br>Departed: August 15, 2015<br>Dog friendly: Yes]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3721209,20.6792052,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Natalia's house</name>
+			<description><![CDATA[Arrived: August 15, 2015<br>Departed: August 18, 2015<br>Dog friendly: Yes]]></description>
+			<styleUrl>#icon-1037</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3490753,20.6616183,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Catrina Hostel and Breakfast</name>
+			<description><![CDATA[Arrived: August 18, 2015<br>Departed: August 22, 2015 <br>Dog friendly: Yes, for 100 pesos/night.]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-100.74194699999998,20.919437,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hostal Casona Poblana</name>
+			<description><![CDATA[Arrived: August 22, 2015<br>Departed: August 24, 2015<br>Dog friendly: Yes]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.200826,19.04104,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Centro Vacacional Malintzi</name>
+			<description><![CDATA[Arrived: August 24, 2015<br>Departed: August 26, 2015<br>Dog friendly: Yes]]></description>
+			<styleUrl>#icon-1379</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.04396600000001,19.280775,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hotel Posada Margarita</name>
+			<description><![CDATA[Arrived: August 26, 2015<br>Departed: August 29, 2015<br>Dog Friendly: Yes, but not allowed to leave the dog in the room alone.]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.72338900000001,17.064701,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Posada del Arquitecto</name>
+			<description><![CDATA[Arrived: August 29, 2015<br>Departed: September 6, 2015<br>Dog friendly: Yes]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.55548699999999,15.664458,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hotel Restaurante Maria Eugenia</name>
+			<description><![CDATA[Arrived: September 6, 2015<br>Departed: September 7, 2015<br>Dog friendly: Yes, after explaining we had a kennel for him.]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.91078600000003,16.229278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hotel Torre Del Centro</name>
+			<description><![CDATA[Arrived: September 7, 2015<br>Departed: September 8, 2015<br>Dog friendly: yes]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.11494600000003,16.755252,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mayabell</name>
+			<description><![CDATA[Arrived: September 8, 2015<br>Departed: September 10, 2015<br>Dog friendly: They allowed Tash, after some convincing that he is a perro bueno and won't get on the beds. ]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.03825699999999,17.487663,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VIATGER INN</name>
+			<description><![CDATA[Arrived: September 10, 2015<br>Departed: September 11, 2015<br>Dog Friendly: Yes.]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.53405499999997,19.845467,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hostal del Fraile</name>
+			<description><![CDATA[Arrived: September 11, 2015<br>Departed: September 13, 2015<br>Dog friendly: yes.]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.20637599999998,20.688541,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Air BNB House Tulum</name>
+			<description><![CDATA[Arrived: September 13, 2015<br>Departed: September 19, 2015<br>Dog friendly: yes.]]></description>
+			<styleUrl>#icon-1037</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.4533176,20.214321,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Yax-Ha</name>
+			<description><![CDATA[Arrived: September 19, 2015<br>Departed: September 20, 2015]]></description>
+			<styleUrl>#icon-1379</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.2484961,18.5606082,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Juan In A Million Hostel</name>
+			<description><![CDATA[Arrived: September 20, 2015<br>Departed: September 26, 2015<br>Dog friendly: yes]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.02637800000002,17.738418,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Trek Stop / Tropical Wings Nature Center</name>
+			<description><![CDATA[Arrived: September 26, 2015<br>Departed: September 27, 2015<br>Dog friendly: yes]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.12303600000001,17.090747,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hotel Los Amigos</name>
+			<description><![CDATA[Arrived: September 27, 2015<br>Departed: September 29, 2015<br>Dog friendly: yes]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.89101599999998,16.929597,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hostal Oasis The Traveler</name>
+			<description><![CDATA[Arrived: September 29, 2015<br>Departed: September 30, 2015<br>Dog friendly: yes]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.980774,15.576951,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hostal El Portal de Semuc Champey</name>
+			<description><![CDATA[Arrived: September 30, 2015<br>Departed: October 2, 2015<br>Dog friendly: yes, after some negotiations.]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.95424200000002,15.537403999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Who the F knows Auto Hotel</name>
+			<description><![CDATA[Arrived: October 2, 2015<br>Departed: October 3, 2015 (way too long of stay)]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.2023888,14.8095707,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Casa de Emily</name>
+			<description><![CDATA[Arrived: October 3, 2015<br>Departed: October 8, 2015]]></description>
+			<styleUrl>#icon-1037</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.7337451,14.556803599999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Camping on Volcan Acatenango</name>
+			<description><![CDATA[October 6 - 7, 2015]]></description>
+			<styleUrl>#icon-1379</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.8751297,14.5005025,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hostel San Marcos</name>
+			<description><![CDATA[Arrived: October 8, 2015<br>Departed: October 11, 2015<br>Dog friendly: not really, but made an exception.]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.2606812,14.7223418,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>El Paredon Surf Camp</name>
+			<description><![CDATA[Arrived: October 11, 2015<br>Departed: October 18, 2015<br>Dog friendly: Yes.]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.07455400000003,13.916125,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Spanish School Homestay</name>
+			<description><![CDATA[Arrived: October 18, 2015<br>Departed: October 25, 2015<br>Dog friendly: Yes.]]></description>
+			<styleUrl>#icon-1037</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.73174950000002,14.5649345,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hostal El Viajero</name>
+			<description><![CDATA[Arrived: October 25, 2015<br>Departed: October 26, 2015<br>Dog friendly: Yes.]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.7367492,14.560629,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>D' Takito Horizonte Surf Resort</name>
+			<description><![CDATA[Arrived: October 26, 2015<br>Departed: October 27, 2015<br>Dog friendly: Yes, but if your dog eats one of the parrots, it cost $2000.]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.43911800000001,13.49544,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Casa Miramar</name>
+			<description><![CDATA[Arrived: October 27, 2015<br>Departed: October 29, 2015<br>Dog friendly: sort of]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.38275899999996,13.492925,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hotel King Palace</name>
+			<description><![CDATA[Arrived: October 29, 2015<br>Departed: October 30, 2015<br>Dog friendly: yes]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.17144000000002,13.484776,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hostal Los Cheles</name>
+			<description><![CDATA[Arrived: October 30, 2015<br>Departed: October 31, 2015<br>Dog friendly: yes]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.876081,12.436523,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bomalu Beach House</name>
+			<description><![CDATA[Arrived: October 31, 2015<br>Departed: November 1, 2015 <br>Dog friendly: yes]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-87.028549,12.364802000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hostal y Restaurante Villa Mar</name>
+			<description><![CDATA[Arrived: November 1, 2015<br>Departed: November 8, 2015<br>Dog friendly: yes]]></description>
+			<styleUrl>#icon-1035</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.90195499999999,11.287128,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1015-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1015-biz-dormitory.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1015-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1015-biz-dormitory.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1015'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1015-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1015-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1035-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1035-biz-hotel.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1035-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1035-biz-hotel.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1035'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1035-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1035-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1037-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1037-biz-house.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1037-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1037-biz-house.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1037'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1037-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1037-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1379-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1379-rec-park.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1379-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1379-rec-park.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1379'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1379-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1379-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

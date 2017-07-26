@@ -5,6 +5,11 @@ library(ggvis)
 #*** need to get the zoo package and make into a time series; right now the TS is not in
 #    the correct order
 
+
+# average cost per day by country
+# monthly costs as bar plot, with regions representing categories
+# barplot for finer level categories
+
 zz <- read.csv('data/Costs.csv')
 
 # set any NA's to 0
